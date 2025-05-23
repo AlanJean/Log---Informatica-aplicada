@@ -52,7 +52,9 @@ https://ivanildo-batista13.medium.com/regress%C3%A3o-linear-m%C3%BAltipla-em-pyt
 ![image](https://github.com/user-attachments/assets/6e2e826c-06b8-430b-abf4-e3458007d58e)
 ![image](https://github.com/user-attachments/assets/79934a81-911f-4b57-b253-82a919697c32)
 ![image](https://github.com/user-attachments/assets/88c2f4a5-99d2-4205-935b-43ae8c8bfd30)
+![image](https://github.com/user-attachments/assets/4113a220-78c8-4174-b38d-43bf85cceac7)
 
+[link do colab](https://colab.research.google.com/drive/1KS9xTDzrsK5TWhKBz6w2fhkNmDAIG5iC?usp=sharing)
 
 
 
