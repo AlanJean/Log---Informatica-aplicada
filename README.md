@@ -50,13 +50,20 @@ foram elaborados modelos realizam previsões sobre o consumo de cerveja, utiliza
    Excel (Consumo_cerveja.xlsx em anexo)
    Linguagem Python no ambiente Google Colab com AI Gemini (cerveja.ipynb em anexo)
 Responda:
+
 **1-)** Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
+
 R: Não são iguais,Python é mais adequado para automação, extensão do modelo e análise em larga escala. Excel é ideal para análises rápidas e compreensão inicial do problema.
 
 **2-)** Qual modelo você usaria? Por quê?
+
 R: Usaria Python por permitir avaliar múltiplas métricas de performace, que o Excel não mostra facilmente.
-Compare os resultados obtidos com aqueles apresentados em:
-https://ivanildo-batista13.medium.com/regress%C3%A3o-linear-m%C3%BAltipla-em-python-eb4b6603a3. Há diferenças entre os modelos? Explique.
+
+**3-)** Há diferenças entre os modelos? Explique.
+
+R: Modelo aplica a técnica a um conjunto específico de dados relacionados ao consumo de cerveja, o artigo de Ivanildo Batista fornece uma visão geral teórica e prática sobre a construção e avaliação de modelos de regressão linear múltipla em Python
+
+https://ivanildo-batista13.medium.com/regress%C3%A3o-linear-m%C3%BAltipla-em-python-eb4b6603a3. 
 ![image](https://github.com/user-attachments/assets/9e086acb-f6b5-43ba-b2f6-fdef95270700)
 ![image](https://github.com/user-attachments/assets/6e2e826c-06b8-430b-abf4-e3458007d58e)
 ![image](https://github.com/user-attachments/assets/79934a81-911f-4b57-b253-82a919697c32)
