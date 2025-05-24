@@ -25,16 +25,22 @@ https://www.sjc.sp.gov.br/servicos/mobilidade-urbana/transporte-publico/
 ![image](https://github.com/user-attachments/assets/dd969874-c321-42f9-ac6a-58e7d12cb283)
 
 # Ativiade 05 - Regressão linear: Excel e Machine Learning
-Projeto 1: Venda de Sorvete
+**Projeto 1: Venda de Sorvete**
 O conjunto de dados disponibilizado em https://www.kaggle.com/datasets/sakshisatre/ice-cream-sales-dataset
 
 apresenta a quantidade de sorvetes vendidos em função da temperatura do dia, em °C.  A fim de evitar desperdícios tanto de trabalho, tempo de preparo e ingredientes, deseja-se um modelo preditivo que seja capaz de fornecer a quantidade de sorvetes a serem vendidos em função da temperatura. Utilizando  técnica de Regressão Linear e as ferramentas:
    Excel
    Linguagem Python no ambiente Google Colab com AI Gemini
 elabore e compare os modelos preditivos para a situação pedida.
+![image](https://github.com/user-attachments/assets/d3c05c59-b20f-430b-b0b0-27621d7ae8cd)
+![image](https://github.com/user-attachments/assets/868fcc62-f1d3-48e9-9dae-5744a9c48c70)
+
+📂[link do colab](https://colab.research.google.com/drive/1LghGUa0pf7tyhCUhUdOOsjY063-1d3dP?usp=sharing)
+📂[link do colab](https://fatecspgov-my.sharepoint.com/:x:/r/personal/alan_silva145_fatec_sp_gov_br/Documents/IceCream%201.csv?d=wb88fbce19a984c41912bfb76a38280ee&csf=1&web=1&e=YhtScq)
 
 
-Projeto 2: Consumo de cerveja
+
+**Projeto 2: Consumo de cerveja**
 Descrição:
 
 Os dados (amostra) foram coletados em São Paulo — Brasil, em uma área universitária, onde acontecem algumas festas com turmas de alunos de 18 a 28 anos (média). O conjunto de dados utilizado  possui 7 variáveis, sendo uma variável dependente, com período de um ano.
@@ -44,8 +50,11 @@ foram elaborados modelos realizam previsões sobre o consumo de cerveja, utiliza
    Excel (Consumo_cerveja.xlsx em anexo)
    Linguagem Python no ambiente Google Colab com AI Gemini (cerveja.ipynb em anexo)
 Responda:
-Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
-Qual modelo você usaria? Por quê?
+**1-)** Os dois modelos são iguais? Explique se houver diferenças e o motivo de elas existirem?
+R: Não são iguais,Python é mais adequado para automação, extensão do modelo e análise em larga escala. Excel é ideal para análises rápidas e compreensão inicial do problema.
+
+**2-)** Qual modelo você usaria? Por quê?
+R: Usaria Python por permitir avaliar múltiplas métricas de performace, que o Excel não mostra facilmente.
 Compare os resultados obtidos com aqueles apresentados em:
 https://ivanildo-batista13.medium.com/regress%C3%A3o-linear-m%C3%BAltipla-em-python-eb4b6603a3. Há diferenças entre os modelos? Explique.
 ![image](https://github.com/user-attachments/assets/9e086acb-f6b5-43ba-b2f6-fdef95270700)
@@ -54,14 +63,14 @@ https://ivanildo-batista13.medium.com/regress%C3%A3o-linear-m%C3%BAltipla-em-pyt
 ![image](https://github.com/user-attachments/assets/88c2f4a5-99d2-4205-935b-43ae8c8bfd30)
 ![image](https://github.com/user-attachments/assets/4113a220-78c8-4174-b38d-43bf85cceac7)
 
-[link do colab](https://colab.research.google.com/drive/1KS9xTDzrsK5TWhKBz6w2fhkNmDAIG5iC?usp=sharing)
+📂[link do colab](https://colab.research.google.com/drive/1KS9xTDzrsK5TWhKBz6w2fhkNmDAIG5iC?usp=sharing)
+📂[link do colab](https://fatecspgov.sharepoint.com/:x:/r/sites/Section_INF047.A994.N.074.146.20251/Class%20Files/Assignments/Regress%C3%A3o%20linear_%20Excel%20e%20Machine%20Learning%201/Consumo_cerveja.xlsx?d=w6a37bdbb6e244ac087aee982b80a6e54&csf=1&web=1&e=fVHU12)
 
 
 
 
 
-
-Projeto 3: Venda de casas
+**Projeto 3: Venda de casas**
 A partir de  um conjunto de dados de características conhecidas dos imóveis, disponível em https://www.kaggle.com/greenwing1985/housepricing
 elaborar um modelo que realize previsões sobre os preços de imóveis, utilizando a técnica de Regressão Linear. Para isso, use:
 
@@ -80,7 +89,9 @@ andares - Se o imóvel possui mais de um andar (1) ou não (0)
 ![image](https://github.com/user-attachments/assets/f3e2db6f-e56a-4a9d-b055-b3ce9b9409b1)
 ![image](https://github.com/user-attachments/assets/e3c8a73c-214f-4fc4-b438-174825f62575)
 ![image](https://github.com/user-attachments/assets/c7bb7a38-4c8b-4661-b6c1-572584e9f0e5)
-![image](https://github.com/user-attachments/assets/e0ca0927-3634-4dcc-a928-7a537ce747d4)
+![image](https://github.com/user-attachments/assets/dc3b8010-b50b-400c-95fa-aa88697a9338)
 
+📂[link do colab](https://colab.research.google.com/drive/1DF-0GgP-vqr_Cc4ARqYRR2xsO0qHX0D2?usp=sharing)
+📂[link do colab](https://fatecspgov-my.sharepoint.com/:x:/r/personal/matheus_siqueira14_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/HousePrices_HalfMil%20(2).xlsx?d=wf1ce44799aa44a99af7b06d00423f5ef&csf=1&web=1&e=3ea0aA)
 
 
