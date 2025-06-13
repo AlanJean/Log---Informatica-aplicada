@@ -101,7 +101,7 @@ andares - Se o imóvel possui mais de um andar (1) ou não (0)
 📂[link do colab](https://colab.research.google.com/drive/1DF-0GgP-vqr_Cc4ARqYRR2xsO0qHX0D2?usp=sharing)
 📂[link do colab](https://fatecspgov-my.sharepoint.com/:x:/r/personal/matheus_siqueira14_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/HousePrices_HalfMil%20(2).xlsx?d=wf1ce44799aa44a99af7b06d00423f5ef&csf=1&web=1&e=3ea0aA)
 
-# Ativiade 06
+# Atividade 06
 
 ![image](https://github.com/user-attachments/assets/2d495066-19e0-4865-9536-1ae646ed8d3e)
 
