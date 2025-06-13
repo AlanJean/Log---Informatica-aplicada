@@ -104,7 +104,8 @@ andares - Se o imóvel possui mais de um andar (1) ou não (0)
 # Atividade 06
 
 ![image](https://github.com/user-attachments/assets/2d495066-19e0-4865-9536-1ae646ed8d3e)
+![image](https://github.com/user-attachments/assets/4c4a55c1-47af-4f7f-a745-15721a26e338)
 ![image](https://github.com/user-attachments/assets/6a8f5ee3-bc8a-4c84-b71e-5c9ecd7c9359)
 ![image](https://github.com/user-attachments/assets/b4ae439b-30f0-4f62-bba8-5c94de1bfe1a)
 📁[link do colab](https://fatecspgov-my.sharepoint.com/:x:/r/personal/alan_silva145_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Graf_K_sandalias_computador.xlsx01.xlsx?d=w7039d48efba24178aa7408df1518f559&csf=1&web=1&e=4QzSO1)
-
+📁[link do colab](https://fatecspgov-my.sharepoint.com/:x:/r/personal/alan_silva145_fatec_sp_gov_br/Documents/Graf_K_panela_sorvetes_produtos.xlsx%2001.xlsx?d=w5c00112947a04fd5b5a02f984f768e7e&csf=1&web=1&e=FMhoMw)
