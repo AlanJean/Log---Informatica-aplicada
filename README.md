@@ -109,3 +109,11 @@ andares - Se o imóvel possui mais de um andar (1) ou não (0)
 ![image](https://github.com/user-attachments/assets/b4ae439b-30f0-4f62-bba8-5c94de1bfe1a)
 📁[link do colab](https://fatecspgov-my.sharepoint.com/:x:/r/personal/alan_silva145_fatec_sp_gov_br/Documents/Arquivos%20de%20Chat%20do%20Microsoft%20Teams/Graf_K_sandalias_computador.xlsx01.xlsx?d=w7039d48efba24178aa7408df1518f559&csf=1&web=1&e=4QzSO1)
 📁[link do colab](https://fatecspgov-my.sharepoint.com/:x:/r/personal/alan_silva145_fatec_sp_gov_br/Documents/Graf_K_panela_sorvetes_produtos.xlsx%2001.xlsx?d=w5c00112947a04fd5b5a02f984f768e7e&csf=1&web=1&e=FMhoMw)
+
+# Atividade 07 Power Automate e Power Apps 
+
+
+https://github.com/user-attachments/assets/6445a403-feb9-4533-b417-4edaf67484e4
+
+
+
