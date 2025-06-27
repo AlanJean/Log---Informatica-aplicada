@@ -118,4 +118,22 @@ https://github.com/user-attachments/assets/6445a403-feb9-4533-b417-4edaf67484e4
 ![image](https://github.com/user-attachments/assets/3d245aed-c1d6-419b-bcd3-a4965fdbd357)
 
 
+**Prova dia 26/06**
+
+a) Elabore um aplicativo, contendo APENAS UMA ÚNICA TELA, por meio do qual seja possível cadastrar os seguintes campos da Produção:
+[Ano]      [Mês]       [Bacia]      [Estado] [Produção de Gás Associado (Mm³)]
+A descrição de cada campo está presente no arquivo Metadados de produção de óleo e gás.pdf, disponível em https://dados.gov.br/dados/conjuntos-dados/fase-de-desenvolvimento-e-producao
+
+b) Personalize seu aplicativo quanto à cor, tipo de fonte e outros.
+
+c) Grave o funcionamento do aplicativo via Ferramenta de Captura da tela e poste o vídeo gerado em seu Github.
+
+https://github.com/user-attachments/assets/b1a8af5f-1cf7-4228-8ac6-15dd7ddf86ca
+
+
+
+
+
+
+
 
