@@ -132,8 +132,6 @@ c) Grave o funcionamento do aplicativo via Ferramenta de Captura da tela e poste
 https://github.com/user-attachments/assets/b1a8af5f-1cf7-4228-8ac6-15dd7ddf86ca
 
 
-**Atividade 02**
-
 
 ![459710029-96d470c9-95fd-4a68-a453-4b312cda6548](https://github.com/user-attachments/assets/39177b51-e32a-47ff-870c-c92d177b5b98)
 
