@@ -118,7 +118,8 @@ https://github.com/user-attachments/assets/6445a403-feb9-4533-b417-4edaf67484e4
 ![image](https://github.com/user-attachments/assets/3d245aed-c1d6-419b-bcd3-a4965fdbd357)
 
 
-**Prova dia 26/06**
+# Prova dia 26/06
+**Atividade 01**
 
 a) Elabore um aplicativo, contendo APENAS UMA ÚNICA TELA, por meio do qual seja possível cadastrar os seguintes campos da Produção:
 [Ano]      [Mês]       [Bacia]      [Estado] [Produção de Gás Associado (Mm³)]
@@ -131,9 +132,15 @@ c) Grave o funcionamento do aplicativo via Ferramenta de Captura da tela e poste
 https://github.com/user-attachments/assets/b1a8af5f-1cf7-4228-8ac6-15dd7ddf86ca
 
 
+**Atividade 02**
 
 
+![459710029-96d470c9-95fd-4a68-a453-4b312cda6548](https://github.com/user-attachments/assets/39177b51-e32a-47ff-870c-c92d177b5b98)
 
+![459709969-826ee972-4f1d-4cc0-8d45-74ac522d9e8c (1)](https://github.com/user-attachments/assets/462bc7bb-d085-428f-900f-e37dba592b3c)
 
+![459709969-826ee972-4f1d-4cc0-8d45-74ac522d9e8c](https://github.com/user-attachments/assets/2a8eba9d-1baf-4c51-bf70-94fabab3e59f)
+
+![459709560-56bc546a-af3e-46d7-be45-cf16425138d7](https://github.com/user-attachments/assets/8de5e5ed-41fa-44b2-a4b3-0652a0dd134a)
 
 
